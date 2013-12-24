@@ -14,7 +14,7 @@ class LanguagePack::Ruby < LanguagePack::Base
   LIBYAML_PATH         = "libyaml-#{LIBYAML_VERSION}"
   BUNDLER_VERSION      = "1.3.2"
   BUNDLER_GEM_PATH     = "bundler-#{BUNDLER_VERSION}"
-  NODE_VERSION         = "0.4.7"
+  NODE_VERSION         = "0.10.24"
   NODE_JS_BINARY_PATH  = "node-#{NODE_VERSION}"
   JVM_BASE_URL         = "http://heroku-jdk.s3.amazonaws.com"
   LATEST_JVM_VERSION   = "openjdk7-latest"
